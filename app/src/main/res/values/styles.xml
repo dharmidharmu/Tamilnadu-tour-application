@@ -1,0 +1,119 @@
+<resources>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Text in the "nav_header_main"-->
+    <style name="headerText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:layout_toEndOf">@id/imageView</item>
+        <item name="android:textColor">@color/tabText</item>
+    </style>
+
+    <style name="headerText.Title">
+        <item name="android:layout_marginEnd">@dimen/value_10dp</item>
+        <item name="android:layout_marginTop">@dimen/value_16dp</item>
+        <item name="android:layout_toEndOf">@id/imageView</item>
+        <item name="android:text">@string/header</item>
+        <item name="android:textSize">@dimen/value_18sp</item>
+    </style>
+
+    <style name="headerText.Slogan">
+        <item name="android:text">@string/header_2</item>
+        <item name="android:textSize">@dimen/value_13sp</item>
+        <item name="android:layout_below">@id/text1</item>
+    </style>
+
+    <style name="cardView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+    <!-- Style for all Images-->
+    <style name="image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_margin">@dimen/value_5dp</item>
+    </style>
+
+    <style name="imageLocation">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/value_3dp</item>
+        <item name="android:src">@drawable/location</item>
+        <item name="android:layout_toEndOf">@id/pic</item>
+        <item name="android:layout_below">@id/place_descrip</item>
+        <item name="android:tint">@color/colorPrimary</item>
+    </style>
+
+    <style name="imageSound">
+        <item name="android:layout_width">@dimen/value_24dp</item>
+        <item name="android:layout_height">@dimen/value_24dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_marginEnd">@dimen/value_15dp</item>
+    </style>
+
+    <!-- Style for all titles/names-->
+    <style name="titleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/value_5dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/value_18sp</item>
+        <item name="android:textColor">@color/tabText</item>
+    </style>
+
+    <style name="titleText.Phrases">
+        <item name="android:textColor">@color/titleText</item>
+        <item name="android:layout_toEndOf">@id/pic</item>
+    </style>
+
+    <style name="titleText.Tab">
+        <item name="android:layout_toEndOf">@id/place</item>
+        <item name="android:textColor">@color/textDark</item>
+        <item name="android:textSize">@dimen/value_16sp</item>
+    </style>
+
+    <!-- Style for addresses and other information-->
+    <style name="description">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/tabText</item>
+        <item name="android:layout_margin">@dimen/value_3dp</item>
+        <item name="android:layout_below">@id/french</item>
+        <item name="android:textSize">@dimen/value_15sp</item>
+    </style>
+
+    <style name="description.2">
+        <item name="android:textColor">@color/addressText</item>
+        <item name="android:layout_toEndOf">@id/pic</item>
+        <item name="android:layout_below">@id/place_name</item>
+        <item name="android:textSize">@dimen/value_13sp</item>
+    </style>
+
+    <!--Text description for Tabs-->
+    <style name="description.3">
+        <item name="android:textColor">@color/textDark</item>
+        <item name="android:layout_toEndOf">@id/place</item>
+        <item name="android:layout_below">@id/name</item>
+        <item name="android:textSize">@dimen/value_13sp</item>
+        <item name="android:autoLink">web|phone</item>
+        <item name="android:textColorLink">@color/colorPrimary</item>
+    </style>
+</resources>

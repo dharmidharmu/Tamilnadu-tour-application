@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cv"
+    style="@style/cardView"
+    card_view:cardBackgroundColor="@color/white"
+    card_view:cardElevation="@dimen/value_7dp"
+    card_view:contentPadding="@dimen/value_5dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/place"
+            style="@style/image"
+            tools:ignore="contentDescription"
+            tools:src="@drawable/budgetcaf1" />
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/titleText.Tab"
+            tools:text="@string/budget_cafe_1" />
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/description.3"
+            tools:text="@string/budget_cafe_desc_1" />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

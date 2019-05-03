@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">TourApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places">Places</string>
+    <string name="hotels">Hotels</string>
+    <string name="cafes">Restaurants</string>
+    <string name="phrases">phrases</string>
+    <string name="budget">Budget</string>
+    <string name="costly">Expensive</string>
+    <string name="header">Tamil Nadu Tour guide</string>
+    <string name="header_2">Eplore the city</string>
+    <string name="item_1">Marina</string>
+    <string name="item_1_1">Chennai</string>
+    <string name="item_2">Srirangam</string>
+    <string name="item_2_2">Trichy</string>
+    <string name="item_3">Malaikottai</string>
+    <string name="item_3_3">Trichy</string>
+    <string name="item_4">Fort museum</string>
+    <string name="item_4_4">Chennai</string>
+    <string name="item_5">Doddabetta</string>
+    <string name="item_5_5">Ooty</string>
+    <string name="item_6">Esha</string>
+    <string name="item_6_6">Coimbatore</string>
+    <string name="item_7">Big Temple</string>
+    <string name="item_7_7">Tanjore</string>
+    <string name="item_8">Meenakshi Temple</string>
+    <string name="item_8_8">Madurai</string>
+    <string name="item_9">Temple</string>
+    <string name="item_9_9">Rameshwaran</string>
+    <string name="item_10">Vandalur</string>
+    <string name="item_10_10">Chennai</string>
+    <string name="french_1">Bonjour</string>
+    <string name="french_2">Merci</string>
+    <string name="french_3">S\'il vous plaît</string>
+    <string name="french_4">Au revoir</string>
+    <string name="french_5">S\'il vous plaît, je cherche</string>
+    <string name="french_6">Ou sont les toilettes, s\'il vous plaît?</string>
+    <string name="french_7">A l\'aeroport, s\'il vous plaît</string>
+    <string name="french_8">Nous sommes perdus</string>
+    <string name="french_9">Pouvez-vous m\'appeler un taxi,\ns\'il vous plaît</string>
+    <string name="french_10">Avez-vous une chambre pour deux personnes? </string>
+    <string name="french_11">Combien ça coûte?</string>
+    <string name="french_12">Je cherche un distributeur de billets</string>
+    <string name="english_1">Hello</string>
+    <string name="english_2">Thank you</string>
+    <string name="english_3">Please</string>
+    <string name="english_4">Goodbye</string>
+    <string name="english_5">Please, I am looking for…</string>
+    <string name="english_6">Where is the toilet / washroom, please?</string>
+    <string name="english_7">To the airport, please</string>
+    <string name="english_8">We are lost</string>
+    <string name="english_9">Could you please call me a cab</string>
+    <string name="english_10">Do you have a room for two?</string>
+    <string name="english_11">How much is it?</string>
+    <string name="english_12">I am looking for an ATM / cash dispenser</string>
+    <string name="budget_cafe_1">Nila</string>
+    <string name="budget_cafe_2">Ajoe</string>
+    <string name="budget_cafe_3">Hari</string>
+    <string name="budget_cafe_4">nera</string>
+    <string name="budget_cafe_5"> Marais</string>
+    <string name="budget_cafe_6">Pizzeria Popolare</string>
+    <string name="budget_cafe_7">petta Clerc</string>
+    <string name="budget_cafe_8">vijay</string>
+    <string name="budget_cafe_9">ajith</string>
+    <string name="budget_cafe_10">arya</string>
+    <string name="expensive_cafe_1">Hotel Surya</string>
+    <string name="expensive_cafe_2">Vaigai hotel</string>
+    <string name="expensive_cafe_3">Muniyandi</string>
+    <string name="expensive_cafe_4">Chola</string>
+    <string name="expensive_cafe_5">Pranesh</string>
+    <string name="expensive_cafe_6">Saravana Bhavan</string>
+    <string name="expensive_cafe_7">Veera</string>
+    <string name="expensive_cafe_8">Sakthi</string>
+    <string name="expensive_cafe_9">Lolo</string>
+    <string name="expensive_cafe_10">Thalpakathi</string>
+    <string name="budget_cafe_desc_1">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+919600725078</u>\n
+        <b>Prices:</b> average price - 200\n
+        <b>Open:</b> Mon-Sat for lunch and dinner
+    </string>
+    <string name="budget_cafe_desc_2">
+        <b>Address:</b> Trichy\n
+        <b>Contact:</b> <u>+33142611767</u>; <u>boco.fr</u>\n
+        <b>Prices:</b> average three-course meal 20\n
+        <b>Open:</b> Mon-Sat for lunch and dinner
+    </string>
+    <string name="budget_cafe_desc_3">
+        <b>Address:</b> Madurai\n
+        <b>Contact:</b> <u>+33142721377</u>; <u>breizhcafe.com</u>\n
+        <b>Prices:</b> average €15\n
+        <b>Open:</b> all day Wednesday to Sunday
+    </string>
+    <string name="budget_cafe_desc_4">
+        <b>Address:</b> Madurai\n
+        <b>Contact:</b> <u>8590680954</u>; <u>www.lencrierrestaurant.com</u>\n
+        <b>Prices:</b> set-price menu from 100 for lunch, 180 for dinner\n
+        <b>Open:</b> Mon-Sat 2.30pm, 7.30pm-11pm
+    </string>
+    <string name="budget_cafe_desc_5">
+        <b>Address:</b> Trichy\n
+        <b>Prices:</b> under 100\n
+        <b>Open:</b> Mon-Sun 12.00pm-11.00pm
+    </string>
+    <string name="budget_cafe_desc_6">
+        <b>Address:</b>Tanjore\n
+        <b>Contact:</b> <u>+33142211035</u>; <u>bigmammagroup.com</u>\n
+        <b>Prices:</b> average 150\n
+        <b>Open:</b> Mon-Thu 12.00pm-2.00pm, 7.00pm-10.30pm,
+        Fri-Sun 12.00pm-2.00pm, 7.00pm-11.00pm,
+    </string>
+    <string name="budget_cafe_desc_7">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+33147054644</u>; <u>fontainedemars.com</u>\n
+        <b>Prices:</b> average two-course meal 200\n
+        <b>Open:</b> pen daily for lunch and dinner
+    </string>
+    <string name="budget_cafe_desc_8">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+33148876360</u>\n
+        <b>Prices:</b> under €10\n
+        <b>Open:</b> Mon-Sun 12.00pm-12.00am, Sat closed
+    </string>
+    <string name="budget_cafe_desc_9">
+        <b>Address:</b> Trichy\n
+        <b>Contact:</b> <u>+33143546074</u>\n
+        <b>Prices:</b> €11-20\n
+        <b>Open:</b> Tue-Fri 12.00pm-2.30pm, 7.00pm-10.30pm,
+        Sat 12.00pm-3.00pm, 7.00pm-11.00pm,
+        Mon-Sun closed
+    </string>
+    <string name="budget_cafe_desc_10">
+        <b>Address:</b> Trichy\n
+        <b>Contact:</b> <u>0033(0)147003439</u>; <u>www.bistrotdupeintre.com</u>\n
+        <b>Price:</b>lunch and dinner around €23\n
+        <b>Open:</b> daily, 7.00am-2.00am
+    </string>
+    <string name="expensive_cafe_desc_1">
+        <b>Address:</b> Trichy\n
+        <b>Contact:</b> <u>+33144581055</u>; <u>alain-ducasse.com</u>\n
+        <b>Open:</b> Mon-Fri 7.00am-2.00pm, Sat-Sun 7.00am-11.30am
+    </string>
+    <string name="expensive_cafe_desc_2">
+        <b>Address:</b> Coimabatore\n
+        <b>Contact:</b> <u>+33147050906</u>\n
+        <b>Open:</b> Mon-Fri 12.30pm-2.30pm, 8.00pm-10.30pm, Sat-Sun closed
+    </string>
+    <string name="expensive_cafe_desc_3">
+        <b>Address:</b> coimbatore\n
+        <b>Contact:</b> <u>+33153434340</u>; <u>lebristolparis.com</u>\n
+        <b>Open:</b> Mon-Sun 7.00am-10.30am, 12.00pm-2.00pm, 7.00pm-10.00pm
+    </string>
+    <string name="expensive_cafe_desc_4">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+33140399619</u>; <u>frenchie-restaurant.com</u>\n
+        <b>Open:</b> Mon-Fri 6.30pm-10.00pm, Sat-Sun closed
+    </string>
+    <string name="expensive_cafe_desc_5">
+        <b>Address:</b> Madurai\n
+        <b>Contact:</b> <u>+33650723621</u>; <u>latelier-rodier.com</u>\n
+        <b>Open:</b> Tue-Sat 7.30pm-11.30pm, Mon, Sun closed
+    </string>
+    <string name="expensive_cafe_desc_6">
+        <b>Address:</b> Theni\n
+        <b>Contact:</b> <u>+33144951501</u>; <u>taillevent.com</u>\n
+        <b>Open:</b> Mon-Fri 11.30am-3.00pm, 7.00pm-11.00pm, Sat-Sun closed
+    </string>
+    <string name="expensive_cafe_desc_7">
+        <b>Address:</b> Trchy\n
+        <b>Contact:</b>  <u>guysavoy.com</u>\n
+        <b>Open:</b> Tue-Sat 12.00pm-2.00pm, 7.00pm-10.30pm, Mon, Sun closed
+    </string>
+    <string name="expensive_cafe_desc_8">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+33149527154</u>; <u>fourseasons.com</u>\n
+        <b>Open:</b> Mon-Sun 7.00am-10.00am, 12.30pm-2.30pm
+    </string>
+    <string name="expensive_cafe_desc_9">
+        <b>Address:</b> Madurai\n
+        <b>Contact:</b> <u>+33158621008</u>; <u>lesclimats.fr</u>\n
+        <b>Open:</b> Tue-Sat 12.00pm-2.30pm, 7.00pm-10.00pm, Mon, Sun closed
+    </string>
+    <string name="expensive_cafe_desc_10">
+        <b>Address:</b> Chennai\n
+        <b>Contact:</b> <u>+33142975440</u>; <u>verjusparis.com</u>\n
+        <b>Open:</b> Mon-Fri 7.00pm-11.00pm, Sat-Sun closed
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>

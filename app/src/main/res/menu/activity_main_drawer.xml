@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/places"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/places" />
+        <item
+            android:id="@+id/cafes"
+            android:icon="@drawable/restaurant"
+            android:title="@string/cafes" />
+
+        <item
+            android:id="@+id/language"
+            android:icon="@drawable/language"
+            android:title="Location" />
+        <item
+            android:id="@+id/temples"
+            android:icon="@drawable/language"
+            android:title="Temple" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/language"
+            android:title="Search" />
+        <item
+            android:id="@+id/spot"
+            android:icon="@drawable/language"
+            android:title="Tourist Spot" />
+        <item
+            android:id="@+id/tour"
+            android:icon="@drawable/language"
+            android:title="Tour Plan" />
+        <item
+            android:id="@+id/log"
+            android:icon="@drawable/language"
+            android:title="Logout" />
+    </group>
+
+</menu>

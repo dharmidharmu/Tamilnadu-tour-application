@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#178F9F</color>
+    <color name="colorPrimaryDark">#15808E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textDark">#203D41</color>
+    <color name="scroll">#B3D6DB</color>
+    <color name="tabText">#2F595F</color>
+    <color name="cardBackground">#F0F0F0</color>
+    <color name="titleText">#00478E</color>
+    <color name="addressText">#2F595F</color>
+</resources>

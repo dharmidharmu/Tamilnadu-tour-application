@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="value_3dp">3dp</dimen>
+    <dimen name="value_5dp">5dp</dimen>
+    <dimen name="value_7dp">7dp</dimen>
+    <dimen name="value_10dp">10dp</dimen>
+    <dimen name="value_15dp">15dp</dimen>
+    <dimen name="value_16dp">16dp</dimen>
+    <dimen name="value_20dp">20dp</dimen>
+    <dimen name="value_24dp">24dp</dimen>
+    <dimen name="value_100dp">100dp</dimen>
+    <dimen name="header_height">160dp</dimen>
+    <dimen name="value_13sp">13sp</dimen>
+    <dimen name="value_15sp">15sp</dimen>
+    <dimen name="value_16sp">16sp</dimen>
+    <dimen name="value_18sp">18sp</dimen>
+</resources>

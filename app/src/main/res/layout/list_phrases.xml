@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false">
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/value_10dp">
+
+        <TextView
+            android:id="@+id/french"
+            style="@style/titleText"
+            tools:text="@string/english_1" />
+
+        <TextView
+            android:id="@+id/english"
+            style="@style/description"
+            tools:text="@string/french_1" />
+
+    </RelativeLayout>
+
+    <ImageView
+        style="@style/imageSound"
+        android:src="@drawable/music"
+        tools:ignore="contentDescription" />
+</RelativeLayout>
+
+

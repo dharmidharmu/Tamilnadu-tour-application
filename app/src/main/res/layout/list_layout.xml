@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/value_15dp">
+
+    <ImageView
+        android:id="@+id/pic"
+        style="@style/image"
+        tools:ignore="contentDescription"
+        tools:src="@drawable/eiffel" />
+
+    <TextView
+        android:id="@+id/place_name"
+        style="@style/titleText.Phrases"
+        tools:text="@string/item_1" />
+
+    <TextView
+        android:id="@+id/place_descrip"
+        style="@style/description.2"
+        tools:text="@string/item_1_1" />
+
+    <ImageView
+        style="@style/imageLocation"
+        tools:ignore="contentDescription" />
+
+</RelativeLayout>
